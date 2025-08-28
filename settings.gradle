@@ -1,0 +1,2 @@
+rootProject.name = 'Sms2Webhook'
+include ':app'
